@@ -3,5 +3,9 @@ module.exports = {
     output: {
         filename: "main.js",
         path: __dirname + "/dist"
-    }
+    },
+    devServer: {
+        contentBase: "./dist"
+    },
+    devtool: "source-map"
 }

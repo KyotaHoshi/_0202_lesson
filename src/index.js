@@ -28,3 +28,7 @@ sum("lib.jsの関数なり")
 
 // webpackをyarnでインストール
 // JSのファイルを一つにまとめてくれる。
+
+// webpack-dev-server検証用
+
+console.log("startコマンドで表示中");
