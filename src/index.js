@@ -32,3 +32,5 @@ sum("lib.jsの関数なり")
 // webpack-dev-server検証用
 
 console.log("startコマンドで表示中");
+
+import "./style.scss"
